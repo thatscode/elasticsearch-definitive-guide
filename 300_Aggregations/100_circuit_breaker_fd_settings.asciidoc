@@ -104,7 +104,7 @@ GET /_nodes/stats/indices/fielddata?fields=*
 -------------------------------
 
 * 按索引节点：
-
++
 [source,json]
 -------------------------------
 GET /_nodes/stats/indices/fielddata?level=indices&fields=*
